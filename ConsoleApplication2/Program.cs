@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.Write("Git Hub Test");
+            Console.Write("git hub test2");
             Console.ReadLine();
         }
     }
